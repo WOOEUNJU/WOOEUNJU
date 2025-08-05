@@ -1,22 +1,28 @@
-# 안녕하세요, 저는 우은주 입니다!
+# 안녕하세요, 저는 우은주 입니다! 👋
 
-## 👨‍💻 프론트엔드 개발자
+## 🎨 디자이너 포트폴리오
 
-- 🔭 현재 [회사명]에서 근무 중입니다.
-- 🌱 현재 `React.js`, `Next.js`와 같은 현대적인 JavaScript 프레임워크를 공부하고 있습니다.
-- 👯 다른 개발자들과 협력하여 오픈 소스 프로젝트에 기여하고 싶습니다.
-- 🤔 사용자 경험을 개선하기 위한 아이디어를 찾고 있습니다.
-- 💬 `JavaScript`, `React`, `CSS` 등에 관해 이야기하는 것을 좋아합니다.
+- 🧑‍💻 **UI/UX 디자이너 & 브랜드 디자이너**  
+- 🌱 감성을 담은 시각 디자인과 사용자 중심의 인터페이스를 설계합니다. 
+- 📍 최근에는 웹/앱 기반 프로젝트에 참여하며 인터랙션 디자인과 프로토타이핑 역량을 강화하고 있습니다.  
+- 🤝 협업을 중요하게 생각하며 기획부터 디자인, 사용자 피드백까지의 전 과정을 함께하는 것을 좋아합니다.  
+- ☕ 커피처럼 따뜻하고 감각적인 디자인을 만듭니다.
 - 📫 연락 방법: wooeunju7496@gmail.com
-- 😄 대명사: He/Him
+- 😄 대명사: She/Her
 - ⚡ 재미있는 사실: 커피 없이는 코드를 작성할 수 없습니다!
 
-## 🛠 기술 스택
-- **언어**: JavaScript (ES6+), TypeScript
-- **프레임워크 및 라이브러리**: React.js, Next.js, Redux, Recoil, Axios, Zustand
-- **스타일링**: CSS, SCSS, Emotion
-- **툴**: Git, GitHub, Figma, Visual Studio Code
-- **기타**: Responsive Design, RESTful API, GraphQL
+## 🔧 사용 툴 & 기술
+
+- **디자인 툴**: Figma, Adobe Photoshop, Illustrator, After Effects  
+- **프로토타이핑 & 협업**: Figma, Zeplin, Notion  
+- **웹 퍼블리싱 경험**: HTML / CSS / JavaScript (기초), GitHub  
+- **기획 역량**: 스토리보드, 사이트맵, 유저저니맵, 페르소나, 콘텐츠 플래닝
+
+## 🗂 주요 역량 키워드
+
+- UI/UX Design, Visual Branding, Interaction Design  
+- 콘텐츠 기획, SNS 디자인, 반응형 웹 디자인  
+- 마이크로 인터랙션, 타이포그래피, 사용자 흐름 설계
 
 ## 💻 언어 사용량 통계
 
